@@ -2,7 +2,6 @@ PocketFM
 
 A compact, one-transistor regenerative FM receiver built around the BF494. Simple to build, low cost, and powered by just 6V.
 
-Show Image Show Image Show Image
 
 Overview
 
@@ -40,14 +39,5 @@ Solder low-profile parts first (resistors, small capacitors), then the transisto
 Wind L1 and the RFC to your chosen specs; the coil and gang capacitor together set the tuning range.
 Connect a short wire or telescopic antenna to ANT, a 6V supply to +6V, and headphones or an amplifier to Audio.
 Adjust Regen until the receiver sits just below the point of oscillation, then tune with the gang capacitor and trim with RF Gain.
-Repository Contents
-pcb/ – PCB layout and gerber files
-docs/ – schematic and build photos
-README.md – this file
-Credits
 
-PCB design by Mr Tech Electronics.
 
-License
-
-Released under the MIT License. Build it, modify it, and share it.
